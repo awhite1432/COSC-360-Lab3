@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Lab 3 - Regression </title>
+    <h2>Regression Explainer</h2>
+	<h3>Alex White - awhite1@smcm.edu - Fall2021 Intro to Data Science 360-01</h3>
+</head>
+<body>
+    <p>
+    Regression is the means of estimating relationships of variables given a certain data set. This creates a better understanding of how variables change in relation to the other variables observed in the data. This also allows us to see an estimate of how these variables are related and how other factors may have an effect on the data. We can then distinguish the strength of the relationship between these variables.
+    </p>
+	<p>
+	We select the independent variable 'height' to compare to several other variables (Temperature, rain, site number, altitude) followed by computing the slope and y intercept for each variable, making average calculations, finding the line of best fit, standard error and finally the R squared which gives us the strength of the relationship. The strength of the relationship is calculated based on the average value for the dependent variable compared to the line of best fit. The smaller the value, the greater the relation.
+	<img src = "http://localhost:8888/tree/Regression/Pictures/" />
+	</p>
+	<p>
+	We start by fin
+        
+
+</body>
+</html>
